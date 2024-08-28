@@ -1,0 +1,7 @@
+.carousel-control-prev,.carousel-control-next {
+    margin-block: 100px;
+}
+
+.carousel{
+    position: sticky !important;
+}
